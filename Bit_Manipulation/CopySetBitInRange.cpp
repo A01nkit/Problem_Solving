@@ -10,10 +10,10 @@ int setSetBit(int x, int y, int l, int r){
         // code here
         int a = (~0) << (l-1);
         int b = (1 << r) - 1;
-        if(r==32)
+        if(r == 32)
            b = ~0;
-        int c=   (a & b) & y;
-        return c|x;
+        int c =   (a & b) & y;
+        return c | x;
         
            
 }
