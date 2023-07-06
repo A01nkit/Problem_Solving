@@ -8,7 +8,6 @@ In the function an integer is passed.
 Output Format
 Return an integer representing minimum jumps.
 
-
 Sample Input
 7
 Sample Output

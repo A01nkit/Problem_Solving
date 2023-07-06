@@ -4,7 +4,8 @@
 
 int Xoring(int arr[]){
     int x = 0;
-    for(int i=0; i<arr.size(); i++){
+    int n=sizeof(arr)/sizeof(int)
+    for(int i=0; i<n; i++){
         x ^= arr[i];
     }
     return x;
