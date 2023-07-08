@@ -7,6 +7,9 @@ N = 5
 A[] = {1,2,3,5}
 Output: 4
 */
+#include<bits/stdc++.h>
+using namespace std;
+
  int missingNumber(vector<int>& array, int n) {
         // Your code goes here
        int a = 1;
@@ -19,4 +22,4 @@ Output: 4
        }
         
         return a;
-    }
+ }
