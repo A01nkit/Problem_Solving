@@ -11,8 +11,6 @@ Input:
    3     2
 Output:1 3 2
 
-
-
 vector<int> findSpiral(Node *root)
 {
     //Your code here
