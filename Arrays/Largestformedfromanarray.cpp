@@ -33,7 +33,7 @@ Constraints:
 Sum of all the elements of the array is greater than 0.
 */
 
-bool static comp(string a, string b){
+    bool static comp(string a, string b){
 	     return (a+b) > (b+a);
 	 }
 
