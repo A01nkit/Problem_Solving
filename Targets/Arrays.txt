@@ -1,0 +1,11 @@
+Kadane's Algorithm->
+
+Variations of Kadane’s Algorithm Modifications to solve slightly different problems:
+1. Maximum Product Subarray
+2. Maximum Sum Increasing Subsequence (MSIS)
+3. Maximum Circular Subarray Sum
+4. Longest Continuous Increasing Subsequence (LCIS)
+5. Max Consecutive ones.
+
+
+Prefix sum Algorithms->
