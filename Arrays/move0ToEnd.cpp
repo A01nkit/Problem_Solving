@@ -22,6 +22,12 @@ Constraints:
 */
 
 
+//This approach is very optimal 
+/*
+time complexity: O(N)
+space complexity: O(1)
+*/
+
 class Solution {
   public:
     void pushZerosToEnd(vector<int>& arr) {
