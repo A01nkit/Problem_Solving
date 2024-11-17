@@ -1,0 +1,3 @@
+1. Do not use vectors or any dynamic container in production based software/program as it will take time to copy the complete size and not effecient use of AWS CPU memory.
+   However, if array is used which is driven data type which give contigious memory. Their would be efficient efficient memory usage but it deprciate the performance of software.
+   Therfore, use LL or it totally depends upon your scale. 
